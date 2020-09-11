@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ruleta de Excusas</string>
+    <string name="coins">moneda(s)</string>
+    <string name="wait_until_the_ad_loads">Espere hasta que se cargue el anuncio.</string>
+    <string name="ad_loaded">Anuncio cargado.</string>
+    <string name="you_have">Tienes</string>
+    <string name="you_have_to_get_some_tokens">Tienes que consguir unas fichas.</string>
+    <string name="get_more_coins">Consigue más monedas</string>
+    <string name="excuse_copied">Excusa copiada</string>
+</resources>

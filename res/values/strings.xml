@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Excuses Roulette</string>
+    <string name="sharedPreferences" translatable="false">SP</string>
+    <string name="coins">coin(s)</string>
+    <string name="wait_until_the_ad_loads">Wait until the app loads.</string>
+    <string name="ad_loaded">Ad loaded.</string>
+    <string name="you_have">You have</string>
+    <string name="you_have_to_get_some_tokens">You have to get some tokens.</string>
+    <string name="get_more_coins">Get more coins</string>
+    <string name="excuse_copied">Excuse copied</string>
+</resources>
